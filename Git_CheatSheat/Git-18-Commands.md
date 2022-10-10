@@ -1,6 +1,3 @@
-
-
-
 **Welcome to `Top-18 Command`!**
 
 <div align="right" markdown="1">
