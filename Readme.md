@@ -1,5 +1,5 @@
 "Contribute Here Your Technical Skill for Hacktoberfest-2022"
-# Hacktoberfest-Maintainer-2022
+# HacktoberFest-Technical-Content 
 A repository to help the open-source community with cool projects  To
 
 Steps to contribute in this repository
