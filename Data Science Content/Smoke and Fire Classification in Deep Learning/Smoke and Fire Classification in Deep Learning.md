@@ -75,5 +75,6 @@ Now it's time to use the function, firstly I gave 2 fire images and test my mode
 Now I gave 2 smoke images and test my model on that images and you can see in the below image that it classifies smoke images correctly.
 
 
-NOTE: If you have a gpu based laptop, then you can run .ipnyb file in local system. Otherwise you can use the Google Colab which provides a faster gpu for train a model faster.
+#NOTE
+If you have a gpu based laptop, then you can run .ipnyb file in local system. Otherwise you can use the Google Colab which provides a faster gpu for train a model faster.
 
