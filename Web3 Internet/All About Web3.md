@@ -6,7 +6,7 @@ Web3 is the answer to this dilemma. Instead of a Web monopolized by large techno
 # The early Web
 Most people think of the Web as a continuous pillar of modern life—it was invented and has just existed since. However, the Web most of us know today is quite different from originally imagined. To understand this better, it's helpful to break the Web's short history into loose periods—Web 1.0 and Web 2.0.
 
-## Web 1.0: Read-Only (1990-2004)
+# Web 1.0: Read-Only (1990-2004)
 In 1989, at CERN, Geneva, Tim Berners-Lee was busy developing the protocols that would become the World Wide Web. His idea? To create open, decentralized protocols that allowed information-sharing from anywhere on Earth.
 
 The first inception of Berners-Lee's creation, now known as 'Web 1.0', occurred roughly between 1990 to 2004. Web 1.0 was mainly static websites owned by companies, and there was close to zero interaction between users - individuals seldom produced content - leading to it being known as the read-only web.
