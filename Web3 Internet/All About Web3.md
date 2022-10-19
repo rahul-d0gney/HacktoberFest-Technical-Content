@@ -41,10 +41,6 @@ Web3 is trustless: it operates using incentives and economic mechanisms instead 
 Why is Web3 important?
 Although Web3's killer features aren't isolated and don't fit into neat categories, for simplicity we've tried to separate them to make them easier to understand.
 
-Ownership
-Web3 gives you ownership of your digital assets in an unprecedented way. For example, say you're playing a web2 game. If you purchase an in-game item, it is tied directly to your account. If the game creators delete your account, you will lose these items. Or, if you stop playing the game, you lose the value you invested into your in-game items.
-
-Web3 allows for direct ownership through non-fungible tokens (NFTs). No one, not even the game's creators, has the power to take away your ownership. And, if you stop playing, you can sell or trade your in-game items on open markets and recoup their value.
 
 👀
 Learn more about NFTs
