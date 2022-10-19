@@ -3,7 +3,7 @@ Centralization has helped onboard billions of people to the World Wide Web and c
 
 Web3 is the answer to this dilemma. Instead of a Web monopolized by large technology companies, Web3 embraces decentralization and is being built, operated, and owned by its users. Web3 puts power in the hands of individuals rather than corporations. Before we talk about Web3, let's explore how we got here.
 
-# The early Web
+## The early Web
 Most people think of the Web as a continuous pillar of modern life—it was invented and has just existed since. However, the Web most of us know today is quite different from originally imagined. To understand this better, it's helpful to break the Web's short history into loose periods—Web 1.0 and Web 2.0.
 
 ## Web 1.0: Read-Only (1990-2004)
